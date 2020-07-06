@@ -19,7 +19,8 @@ database to link them together.
 ### Detecting face in files using Vision API
 ![](./images/Vision.png)
 ### Authentication
-![](images/JWT.png)
+
+![](images/JWT.png) <br/>
 
 Use JWT for authentication
 ![](images/auth-1.png)
