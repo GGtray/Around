@@ -22,7 +22,7 @@ database to link them together.
 
 ![](images/JWT.png) <br/>
 
-Use JWT for authentication
+Use JWT for authentication <br/>
 ![](images/auth-1.png)
 ![](images/auth-3.png)
 
